@@ -2,15 +2,18 @@
 
 # What are I'm trying to solve
 
- Im hoping with this app I can help obesity and help users improve their health.
+ Im hoping with this app I can help improve obesity issues and help users improve their health.
 
 # Who will interact with the App
 
- Im hoping fitness trainers and gym owners would incurage their members to use the app
+ Im targeting fitness trainers and gym owners would encourage their members to use the app 
 
 # Core functionality
 
- Workoutplan/ Log, Daily meal plan, Food log, 
+ Daily Workout-plan
+ Daily workout-log
+ Daily meal plan
+ Food log 
 
 # Future enhancements
  Im thinking something close to the amazon halo 
